@@ -1,5 +1,5 @@
 /* =============================================
-   SafeWork Emergency Guide — script.js
+   NusaSafe Emergency Guide — script.js
    Semua interaktivitas website ada di sini.
    ============================================= */
 
